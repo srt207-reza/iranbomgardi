@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\models\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\models\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\models\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|c:\\users\\asus\\source\\repos\\bomgardi\\bomgardi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E209DCBA-01C8-4660-A8A3-CD1986B600CB}|bomgardi\\bomgardi.csproj|solutionrelative:bomgardi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "bomgardi\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:41:18.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "bomgardi\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:20:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Services\\User\\IUserService.cs",
+              "RelativeToolTip": "bomgardi\\Services\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:20:00.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Program.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Program.cs",
+              "RelativeToolTip": "bomgardi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:19:06.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "bomgardi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAA2wD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:07:35.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Models\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Models\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Models\\Users\\UserDto.cs",
+              "RelativeToolTip": "bomgardi\\Models\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:03:03.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Models\\Users\\User.cs",
+              "RelativeDocumentMoniker": "bomgardi\\Models\\Users\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\bomgardi\\bomgardi\\Models\\Users\\User.cs",
+              "RelativeToolTip": "bomgardi\\Models\\Users\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:02:22.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
